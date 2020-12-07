@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dude_now_game/static/css/main.38d20aec.chunk.css",
+    "main.js": "/dude_now_game/static/js/main.2c65ef2b.chunk.js",
+    "main.js.map": "/dude_now_game/static/js/main.2c65ef2b.chunk.js.map",
+    "runtime-main.js": "/dude_now_game/static/js/runtime-main.3ff677c6.js",
+    "runtime-main.js.map": "/dude_now_game/static/js/runtime-main.3ff677c6.js.map",
+    "static/js/2.becb2b93.chunk.js": "/dude_now_game/static/js/2.becb2b93.chunk.js",
+    "static/js/2.becb2b93.chunk.js.map": "/dude_now_game/static/js/2.becb2b93.chunk.js.map",
+    "index.html": "/dude_now_game/index.html",
+    "static/css/main.38d20aec.chunk.css.map": "/dude_now_game/static/css/main.38d20aec.chunk.css.map",
+    "static/js/2.becb2b93.chunk.js.LICENSE.txt": "/dude_now_game/static/js/2.becb2b93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ff677c6.js",
+    "static/js/2.becb2b93.chunk.js",
+    "static/css/main.38d20aec.chunk.css",
+    "static/js/main.2c65ef2b.chunk.js"
+  ]
+}
